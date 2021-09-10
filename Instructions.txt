@@ -1,0 +1,28 @@
+Installing your content locker URL on the php version landing pages is very easy.
+
+
+1. Go to the folder "parts"
+2. Edit verification.php
+3. At the bottom, find "REPLACE YOUR CONTENT LOCKER URL HERE"
+4. Replace it with your content locker URL.
+5. Save it!
+
+
+Example:
+
+<a id="verification-button" class="tkt-btn animated pulse infinite" href="REPLACE YOUR CONTENT LOCKER URL HERE"><span>Verify Now</span></a>
+
+Result:
+
+<a id="verification-button" class="tkt-btn animated pulse infinite" href="https://verifyzone.net/aa12bb34cc56dd78"><span>Verify Now</span></a>
+
+
+Thanks for visiting us!
+   _____ _____        _                     _ _                                  
+  / ____|  __ \ /\   | |                   | (_)                                 
+ | |    | |__) /  \  | |     __ _ _ __   __| |_ _ __   __ _   ___ ___  _ __ ___  
+ | |    |  ___/ /\ \ | |    / _` | '_ \ / _` | | '_ \ / _` | / __/ _ \| '_ ` _ \ 
+ | |____| |  / ____ \| |___| (_| | | | | (_| | | | | | (_| || (_| (_) | | | | | |
+  \_____|_| /_/    \_\______\__,_|_| |_|\__,_|_|_| |_|\__, (_)___\___/|_| |_| |_|
+                                                       __/ |                     
+                                                      |___/                      
